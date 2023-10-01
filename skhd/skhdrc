@@ -1,0 +1,3 @@
+ctrl - f: open -na 'Firefox'
+ctrl - s: open -na 'Sublime Text'
+ctrl - n: open -na 'Notes'
